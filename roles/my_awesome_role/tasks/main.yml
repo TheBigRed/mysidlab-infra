@@ -9,7 +9,7 @@
     - wget
     - httpd
     - httpd-tools
-    - lynx
+    - links
 
 # Configure apache
 - name: Ensure httpd is running
