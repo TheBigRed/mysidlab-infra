@@ -9,7 +9,7 @@
     - wget
     - httpd
     - httpd-tools
-    - links
+    - curl
 
 # Configure apache
 - name: Ensure httpd is running
